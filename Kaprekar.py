@@ -1,7 +1,7 @@
 """
 A natural number in a given number base is a p-Kaprekar number if the
 representation of its square in that base can be split into two parts,
-where the second part has {\displaystyle p}p digits, that add up to
+where the second part is to the right of the first part, that add up to
 the original number.
 """
 
